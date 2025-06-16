@@ -1,11 +1,11 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: #ffbdf1;
   padding: 20px;
 }
 
 h1, h2 {
-  color: #333;
+  color: #030303;
 }
 
 form input, form button {
@@ -15,16 +15,16 @@ form input, form button {
 }
 
 button {
-  background-color: #aeffcc;
-  color: mint;
+  background-color: #bdeeff;
+  color: #ffcdb8;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #3367d6;
+  background-color: #0f3936;
 }
 
 .error {
-  color: red;
+  color: #ffa3fc;
 }
